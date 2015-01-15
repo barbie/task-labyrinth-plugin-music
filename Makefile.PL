@@ -8,7 +8,7 @@ use ExtUtils::MakeMaker;
 
 WriteMakefile(
     AUTHOR              => 'Barbie <barbie@cpan.org>',
-    NAME                => 'Task-Labyrinth-Plugin-Music',
+    NAME                => 'Task::Labyrinth::Plugin::Music',
     VERSION_FROM        => 'lib/Task/Labyrinth/Plugin/Music.pm',
     ABSTRACT            => 'All music related Labyrinth modules all at once',
     NO_META             => 1,
