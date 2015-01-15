@@ -12,18 +12,18 @@ The easiest way to install is via CPAN, CPANPLUS or cpanminus:
 CPAN:
 
     % perl -MCPAN -e shell                    [as root]
-    > install Task-Labyrinth-Plugin-Music
+    > install Task::Labyrinth::Plugin::Music
     > quit
 
 CPANPLUS:
 
     % cpanp
-    > i Task-Labyrinth-Plugin-Music
+    > i Task::Labyrinth::Plugin::Music
     > q
 
 cpanminus:
 
-    % cpanm Task-Labyrinth-Plugin-Music
+    % cpanm Task::Labyrinth::Plugin::Music
 
 See your local documentation ('perldoc CPAN', 'perldoc CPANPLUS' or 
 'perldoc cpanm') for further instructions on setting up and configuring your
