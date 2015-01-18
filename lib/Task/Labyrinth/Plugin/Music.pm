@@ -3,7 +3,7 @@ package Task::Labyrinth::Plugin::Music;
 use strict;
 use warnings;
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 qq<
 I am little pieces little pieces little pieces

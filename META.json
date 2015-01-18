@@ -1,6 +1,6 @@
 {
     "name": "Task-Labyrinth-Plugin-Music",
-    "version": "1.00",
+    "version": "1.01",
     "abstract": "All music related Labyrinth modules all at once",
     "author": [
         "Barbie (BARBIE) <barbie@cpan.org>"
@@ -53,7 +53,7 @@
     "provides": {
         "Task::Labyrinth::Plugin::Music": {
             "file": "lib/Task/Labyrinth/Plugin/Music.pm",
-            "version": "1.00"
+            "version": "1.01"
         }
     },
     "no_index": {
